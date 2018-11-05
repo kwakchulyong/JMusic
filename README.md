@@ -5,4 +5,4 @@ version : 1.6.5
 
 
 Reference site
-http://explodingart.com/jmusic/
+http://explodingart.com/jmusic/jmtutorial/t1.html
